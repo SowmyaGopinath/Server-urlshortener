@@ -2,3 +2,7 @@ node_modules
 .env
 logs
 
+# Removed CORs Options
+config/allowedOrigins.js
+config/corsOptions.js
+middlewares/credentials.js
